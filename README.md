@@ -1,4 +1,4 @@
-### Projeto Ajuda Pet RS (Concluído)
+### Projeto de Negócios: Ajuda Pet RS (Concluído)
 * **Desafio:** Ajuda humanitária para o Rio Grande do Sul
   
 Etapas do Projeto:
